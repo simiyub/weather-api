@@ -8,6 +8,7 @@ class WeatherApiApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
