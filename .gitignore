@@ -1,6 +1,3 @@
-# Compiled class file
-*.class
-.gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
 # Log file
